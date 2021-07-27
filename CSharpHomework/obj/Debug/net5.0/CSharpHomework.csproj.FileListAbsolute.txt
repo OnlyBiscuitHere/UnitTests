@@ -1,0 +1,16 @@
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\CSharpHomework.exe
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\CSharpHomework.deps.json
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\CSharpHomework.runtimeconfig.json
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\CSharpHomework.runtimeconfig.dev.json
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\CSharpHomework.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\ref\CSharpHomework.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\bin\Debug\net5.0\CSharpHomework.pdb
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.csproj.AssemblyReference.cache
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.AssemblyInfoInputs.cache
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.AssemblyInfo.cs
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.csproj.CoreCompileInputs.cache
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\ref\CSharpHomework.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.pdb
+C:\Users\h8bmf\source\repos\CSharpHomework\CSharpHomework\obj\Debug\net5.0\CSharpHomework.genruntimeconfig.cache
