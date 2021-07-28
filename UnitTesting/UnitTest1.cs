@@ -23,8 +23,8 @@ namespace UnitTesting
         //If someone is **under 15** - U, PG, 12 and 15 films are available -  Initial requirements
         //If someone is  15 and under - U, PG, 12 and 15 films are available
         [TestCase(13)]
+        [TestCase(14)]
         [TestCase(15)]
-        [TestCase(16)]
         public void GivenAge13Between15(int age)
         {
             var expectedGreetings = "U, PG, 12 & 15 films are available.";
